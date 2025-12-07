@@ -17,9 +17,9 @@ Here you will find my open-source notes on the hard sciences. I publish these to
 ## ⚛️ The Synthesis
 I believe that the same laws that govern atoms also govern our habits. Here I explore the connection between physics and self-development.
 
-* [[The Law of Inertia]] — Why starting a new habit is the hardest part.
-* [[Entropy Management]] — How to create order in a chaotic student life.
-* [[Momentum]] — How to sustain progress once you've started.
+* [[002 Newton's First Law in Disguise]] — Why starting a new habit is the hardest part.
+* [[003 Formula for Habits]] — Why starting small is the greatest force of the universe.
+* [[004 Action-Reaction Principle]] — Why your environment pushes you back.
 
 ---
 
