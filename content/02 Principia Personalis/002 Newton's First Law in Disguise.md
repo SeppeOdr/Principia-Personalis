@@ -1,5 +1,5 @@
 ---
-title: Why Procrastination is just Newton's First Law in Disguise
+title: 002 Why Procrastination is just Newton's First Law in Disguise
 ---
 # The Physics of Building Habits
 
