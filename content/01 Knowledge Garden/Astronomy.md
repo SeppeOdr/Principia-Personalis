@@ -1,5 +1,7 @@
 ---
 title: Astronomy
+tags:
+  - Astronomy
 ---
 Astronomy is the study of all the objects and their interactions with each other outside of our home planet Earth. Yet, astronomy is also the attempt by humans to organize all the events that happened in the Universe into a clear history. [1]
 
